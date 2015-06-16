@@ -1,0 +1,6 @@
+{
+  "name": "testpak",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
